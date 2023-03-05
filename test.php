@@ -184,6 +184,7 @@ if(isset($send_auth)){
                                             .catch(error => console.error(error));
                                         </script> -->
                                     </table>
+                                    
                                 </div>
                             </div>
                         </div>

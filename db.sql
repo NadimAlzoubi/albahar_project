@@ -38,7 +38,7 @@ CREATE TABLE `admin_login` (
 --
 
 INSERT INTO `admin_login` (`ID`, `USERNAME_`, `PASSWORD_`) VALUES
-(15, 'moni', '1983');
+(15, 'root', 'root');
 
 -- --------------------------------------------------------
 
@@ -5851,7 +5851,7 @@ CREATE TABLE `user_login` (
 --
 
 INSERT INTO `user_login` (`ID`, `USERNAME_`, `PASSWORD_`) VALUES
-(1, 'gh', 'bahar1983');
+(1, 'root', 'root');
 
 -- --------------------------------------------------------
 
